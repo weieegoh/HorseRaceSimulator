@@ -1,6 +1,7 @@
 # HorseRaceSimulator
 
 Project Overview
+
 This Java application simulates a horse race. The simulation includes realistic horse movement based on confidence levels and provides a visual representation of the race in the console.
 
 Setup Instructions
