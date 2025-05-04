@@ -28,7 +28,7 @@ public class RaceTester {
         Horse horse1 = new Horse('A', "Turtle", 0.1);
         Horse horse2 = new Horse('B', "Dog", 0.5);
         Horse horse3 = new Horse('C', "Cheetah", 0.9);
-        
+    
         // Add horses to the race in their respective lanes
         race.addHorse(horse1,1);
         race.addHorse(horse2,2);
