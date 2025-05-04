@@ -9,6 +9,9 @@ Prerequisites
 Java Development Kit (JDK) 11 or later
 
 Running a Basic Race
+
 Create horses with symbols, names, and confidence levels (0.0 to 1.0).
-Add horses to lanes:.
-Start the race:.
+
+Add horses to lanes.
+
+Start the race.
